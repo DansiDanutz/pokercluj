@@ -261,6 +261,37 @@ h4 {
     font-size: 1.1rem;
 }
 
+.section-tag {
+    text-align: center;
+    font-weight: 600;
+    color: var(--primary);
+    margin-top: 1rem;
+    text-transform: uppercase;
+    font-size: 0.9rem;
+}
+
+.warning-section {
+    text-align: center;
+    padding: 1rem 0;
+}
+
+.warning-icon {
+    font-size: 1.25rem;
+    color: var(--danger);
+    font-weight: 600;
+}
+
+.proposal-section {
+    text-align: center;
+    padding: 1rem 0;
+}
+
+.proposal-icon {
+    font-size: 1.25rem;
+    color: var(--accent);
+    font-weight: 600;
+}
+
 footer {
     text-align: center;
     padding: 2rem 0;
