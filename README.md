@@ -33,6 +33,14 @@ Venit nou la bugetul local: **~174.000€/an (~870.000 lei/an)**
 
 Site-ul este hostat pe Vercel: https://pokercluj.vercel.app/
 
+## Verificare
+
+Proiectul nu are dependențe de runtime. Verificarea structurii HTML, a antetelor de securitate și a contrastului se rulează cu:
+
+```sh
+npm test
+```
+
 ## License
 
 © 2026
