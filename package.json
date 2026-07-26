@@ -1,0 +1,7 @@
+{
+  "name": "pokercluj",
+  "private": true,
+  "scripts": {
+    "test": "node scripts/verify-site.mjs"
+  }
+}
